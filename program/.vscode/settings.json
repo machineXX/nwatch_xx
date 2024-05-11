@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "face_function.h": "c",
+        "watchface2.h": "c",
+        "debug.h": "c",
+        "weather.h": "c",
+        "watchface_ast.h": "c",
+        "config.h": "c"
+    }
+}
